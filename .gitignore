@@ -1,1 +1,17 @@
+software/*
+!software/hdmi_demo
+Zybo-Z7/*
+#!Zybo-Z7
 
+
+#Zybo-Z7/
+#Zybo-Z7/sw/
+#software/*
+#Zybo-Z7/*
+
+#Zybo-Z7/sw/src/Zybo-Z7-10-HDMI/src/
+#Zybo-Z7/sw/src/Zybo-Z7-10-HDMI/
+#Zybo-Z7/*
+#!Zybo-Z7/sw
+#Zybo-Z7/sw/*
+#!Zybo-Z7/sw/src
